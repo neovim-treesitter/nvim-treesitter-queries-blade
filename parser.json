@@ -1,6 +1,6 @@
 {
-  "url": "https://github.com/EmranMR/tree-sitter-blade",
   "semver": false,
+  "parser_version": "b9436b7b936907aff730de0dac1b99d7c632cc86",
   "lang": "blade",
-  "parser_version": "b9436b7b936907aff730de0dac1b99d7c632cc86"
+  "url": "https://github.com/EmranMR/tree-sitter-blade"
 }
